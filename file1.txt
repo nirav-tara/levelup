@@ -3,3 +3,5 @@ modifying file1 for git diff
 modifying file1 2nd time 
 modifying file1 2nd time
 modifying file1 3rd time
+complete statement 1
+complete statement 2
